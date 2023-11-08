@@ -1,0 +1,11 @@
+#quiz-container {
+    text-align: center;
+}
+
+#question-container, #result-container {
+    display: none;
+}
+
+#options label {
+    display: block;
+}
